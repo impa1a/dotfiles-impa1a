@@ -1,0 +1,21 @@
+! ------------------------------------------------------------------------------
+!                          ROFI THEME - impa1a
+! ------------------------------------------------------------------------------
+
+rofi.color-window: argb:EE000000
+rofi.color-normal: argb:00171717, #a4a4a4, argb:00535c5c, argb:00171717, #535c5c
+rofi.color-urgent: argb:00171717, #cc6666, argb:e54b5160, argb:00171717, #535c5c
+rofi.color-active: argb:00171717, #65acff, argb:e44b5160, argb:00171717, #535c5c
+rofi.width: 500
+rofi.lines: 15
+rofi.font: Oxygen-Regular 12
+rofi.bw: 0
+rofi.padding: 35
+rofi.line-margin: 5
+rofi.eh: 1
+rofi.sidebar-mode: true
+rofi.separator-style: none
+rofi.hide-scrollbar: true
+rofi.show-icons: false
+rofi.location: 0
+rofi.modi: window,run,drun
